@@ -10,7 +10,6 @@ public class DialogueTrigger : MonoBehaviour
 
     [Header("inkJSON")]
     [SerializeField] private TextAsset inkJSON;
-
  
     private bool playerInRange;
 
@@ -30,6 +29,8 @@ public class DialogueTrigger : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.Space))
             {
                 DialogueManager.GetInstance().EnterDialogueMode(inkJSON);
+                GameObject.Find("QuestLog").SetActive(false);
+                
             }
         }
         else
