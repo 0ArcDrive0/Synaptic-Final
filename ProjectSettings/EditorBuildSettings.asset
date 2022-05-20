@@ -6,15 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainHouse.unity
+    path: Assets/Scenes/House/MainHouse.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Upstairs.unity
+    path: Assets/Scenes/House/Upstairs.unity
     guid: bfc2555026130184b96eaa5e2d6e08ee
   - enabled: 1
-    path: Assets/Scenes/Bathroom.unity
+    path: Assets/Scenes/House/Bathroom.unity
     guid: 0b75a6c27aae99a4289a864700587986
   - enabled: 1
-    path: Assets/Scenes/ParentsBedroom.unity
+    path: Assets/Scenes/House/ParentsBedroom.unity
     guid: 8c906a6826b38b749b4ca87b9c1c4e25
   m_configObjects: {}
