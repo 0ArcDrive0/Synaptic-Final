@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Others/Main Menu.unity
+    guid: a28d067627ed250419ea95f93372ce67
+  - enabled: 1
     path: Assets/Scenes/House/MainHouse.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
@@ -13,8 +16,11 @@ EditorBuildSettings:
     guid: bfc2555026130184b96eaa5e2d6e08ee
   - enabled: 1
     path: Assets/Scenes/House/Bathroom.unity
-    guid: 0b75a6c27aae99a4289a864700587986
+    guid: e881fa3533233be4b83c648b1278690a
   - enabled: 1
     path: Assets/Scenes/House/ParentsBedroom.unity
     guid: 8c906a6826b38b749b4ca87b9c1c4e25
+  - enabled: 1
+    path: Assets/Scenes/House/PlayersBedroom.unity
+    guid: f5e9ff92e2cfde948abdf2c1e4663bb2
   m_configObjects: {}

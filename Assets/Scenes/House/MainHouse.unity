@@ -5657,7 +5657,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Update 30 - '
+  m_Text: 'Update 45- '
 --- !u!222 &2056849345
 CanvasRenderer:
   m_ObjectHideFlags: 0
