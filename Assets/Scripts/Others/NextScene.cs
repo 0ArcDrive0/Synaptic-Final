@@ -6,6 +6,6 @@ public class NextScene : MonoBehaviour
 {
     private void OnEnable()
     {
-        SceneManager.LoadScene("Intro", LoadSceneMode.Single);
+        SceneManager.LoadScene("MainHouse");
     }
 }
