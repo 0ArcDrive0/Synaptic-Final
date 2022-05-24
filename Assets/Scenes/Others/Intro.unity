@@ -198,10 +198,10 @@ RectTransform:
   m_Father: {fileID: 1816898930}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -84}
-  m_SizeDelta: {x: 985, y: 312.6}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -0.5694, y: 181.8055}
+  m_SizeDelta: {x: 898.8127, y: 329.9204}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &916975027
 GameObject:
@@ -235,10 +235,10 @@ RectTransform:
   m_Father: {fileID: 1816898930}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -86.6582}
-  m_SizeDelta: {x: 983.546, y: 317.9153}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -0.5694, y: 179}
+  m_SizeDelta: {x: 897.486, y: 335.5302}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &916975029
 MonoBehaviour:
@@ -473,10 +473,10 @@ RectTransform:
   m_Father: {fileID: 1816898930}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -86.6582}
-  m_SizeDelta: {x: 983.546, y: 317.9153}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -0.5694, y: 179}
+  m_SizeDelta: {x: 897.486, y: 335.5302}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1182120529
 MonoBehaviour:
@@ -532,7 +532,7 @@ GameObject:
   - component: {fileID: 1195548273}
   - component: {fileID: 1195548272}
   m_Layer: 5
-  m_Name: FithVerse (3)
+  m_Name: EigthVerse
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -594,10 +594,10 @@ RectTransform:
   m_Father: {fileID: 1816898930}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.36346, y: -86.6582}
-  m_SizeDelta: {x: 984.27, y: 317.92}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -0.2377, y: 179}
+  m_SizeDelta: {x: 898.1467, y: 335.5352}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1297633376
 GameObject:
@@ -631,10 +631,10 @@ RectTransform:
   m_Father: {fileID: 1816898930}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -84}
-  m_SizeDelta: {x: 985, y: 312.6}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -0.5694, y: 181.8055}
+  m_SizeDelta: {x: 898.8127, y: 329.9204}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1297633378
 MonoBehaviour:
@@ -711,10 +711,10 @@ RectTransform:
   m_Father: {fileID: 1816898930}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.36346, y: -86.6582}
-  m_SizeDelta: {x: 984.27, y: 317.92}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -0.2377, y: 179}
+  m_SizeDelta: {x: 898.1467, y: 335.5352}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1433011258
 MonoBehaviour:
@@ -759,6 +759,72 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1433011256}
   m_CullTransparentMesh: 1
+--- !u!1 &1658131902
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1658131903}
+  - component: {fileID: 1658131904}
+  m_Layer: 0
+  m_Name: Videoplayer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1658131903
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1658131902}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 324.15866, y: -13.477512, z: 84.13609}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!328 &1658131904
+VideoPlayer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1658131902}
+  m_Enabled: 1
+  m_VideoClip: {fileID: 32900000, guid: 5235d97dd09b1dc4aa336642d607b1ad, type: 3}
+  m_TargetCameraAlpha: 1
+  m_TargetCamera3DLayout: 0
+  m_TargetCamera: {fileID: 0}
+  m_TargetTexture: {fileID: 0}
+  m_TimeReference: 0
+  m_TargetMaterialRenderer: {fileID: 0}
+  m_TargetMaterialProperty: _MainTex
+  m_RenderMode: 2
+  m_AspectRatio: 2
+  m_DataSource: 0
+  m_PlaybackSpeed: 1
+  m_AudioOutputMode: 2
+  m_TargetAudioSources:
+  - {fileID: 0}
+  m_DirectAudioVolumes:
+  - 1
+  m_Url: 
+  m_EnabledAudioTracks: 01
+  m_DirectAudioMutes: 00
+  m_ControlledAudioTrackCount: 1
+  m_PlayOnAwake: 1
+  m_SkipOnDrop: 1
+  m_Looping: 0
+  m_WaitForFirstFrame: 1
+  m_FrameReadyEventEnabled: 0
+  m_VideoShaders: []
 --- !u!1 &1816898925
 GameObject:
   m_ObjectHideFlags: 0
@@ -995,7 +1061,7 @@ GameObject:
   - component: {fileID: 1989167535}
   - component: {fileID: 1989167534}
   m_Layer: 5
-  m_Name: FithVerse (2)
+  m_Name: SeventhVerse
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1015,10 +1081,10 @@ RectTransform:
   m_Father: {fileID: 1816898930}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.36346, y: -86.6582}
-  m_SizeDelta: {x: 984.27, y: 317.92}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -0.2377, y: 179}
+  m_SizeDelta: {x: 898.1467, y: 335.5352}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1989167534
 MonoBehaviour:
@@ -1053,7 +1119,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Arguements, broken vases... Crying and shouting... then finally... '
+  m_Text: Arguements, broken vases... Crying and shouting... then finally... it got
+    too much
 --- !u!222 &1989167535
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1074,7 +1141,7 @@ GameObject:
   - component: {fileID: 2042358295}
   - component: {fileID: 2042358294}
   m_Layer: 5
-  m_Name: FithVerse (1)
+  m_Name: SxitrhVerse
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1094,10 +1161,10 @@ RectTransform:
   m_Father: {fileID: 1816898930}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.36346, y: -86.6582}
-  m_SizeDelta: {x: 984.27, y: 317.92}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -0.2377, y: 179}
+  m_SizeDelta: {x: 898.1467, y: 335.5352}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2042358294
 MonoBehaviour:
