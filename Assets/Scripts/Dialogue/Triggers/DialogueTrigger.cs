@@ -10,8 +10,13 @@ public class DialogueTrigger : MonoBehaviour
 
     [Header("inkJSON")]
     [SerializeField] private TextAsset inkJSON;
- 
+
+    [SerializeField] private AudioSource audio;
+    [SerializeField] private AudioClip clip;
+
+
     private bool playerInRange;
+    
 
     public void Awake()
     {
@@ -30,7 +35,9 @@ public class DialogueTrigger : MonoBehaviour
             {
                 DialogueManager.GetInstance().EnterDialogueMode(inkJSON);
                 GameObject.Find("QuestLog").SetActive(false);
-                
+
+                audio.Stop();
+                audio.PlayOneShot(clip, 0.5f);
             }
         }
         else

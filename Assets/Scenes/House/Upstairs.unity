@@ -259,7 +259,7 @@ PrefabInstance:
       objectReference: {fileID: 1460189912}
     - target: {fileID: 7628883616459767559, guid: 49ee66ff6effbdb4aa52daf03517b3be, type: 3}
       propertyPath: levelToLoad
-      value: Parents Bedroom
+      value: ParentsBedroom
       objectReference: {fileID: 0}
     - target: {fileID: 7950406161233433339, guid: 49ee66ff6effbdb4aa52daf03517b3be, type: 3}
       propertyPath: m_RootOrder
